@@ -1,0 +1,20 @@
+header{
+    background-color: azure;
+    color: black;
+    font-size: 150%;
+    margin: 5px;
+    border-color: rgb(0, 0, 0);
+    
+}
+.informações{
+    width: 640px;
+  
+}
+.listadeinformações{
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+}
+.itens{
+    line-height: 1.5;
+}
